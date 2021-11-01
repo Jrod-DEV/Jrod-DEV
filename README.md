@@ -13,6 +13,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | React | Node.js | Tailwind CSS | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Visual Studio code | Git | Linux | NPM
+- 💭 &nbsp; AWS | GitHub Pages | Heroku
 
 <br>
 
