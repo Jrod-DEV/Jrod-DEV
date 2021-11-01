@@ -1,4 +1,4 @@
-### Hi, I´m Jonathan  💻 👋�
+### Hi, I´m Jonathan  💻 👋
 
 
 **Jrod-DEV/Jrod-DEV**
