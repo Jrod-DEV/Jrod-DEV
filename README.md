@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I´m Jonathan  💻 👋�
 
 
 **Jrod-DEV/Jrod-DEV**
@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 💻 &nbsp; HTML | CSS | JavaScript | React | Node.js | Tailwind CSS | Bootstrap
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Node.js | Tailwind CSS | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Visual Studio code | Git | Linux | NPM
 
