@@ -4,7 +4,7 @@
 **Jrod-DEV/Jrod-DEV**
 
 - 🌱 &nbsp; I’m currently learning web development and programming skills.
-- 💼 &nbsp; Front-end Web Developer.
+- 💼 &nbsp; Full-Stack Web Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - ⚡ &nbsp;  Coffee, Lofi-HipHop and code. That´s all.
 
