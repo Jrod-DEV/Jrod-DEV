@@ -10,10 +10,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Node.js | Tailwind CSS | Bootstrap
+- 🌐 &nbsp; HTML | CSS | Tailwind CSS | JavaScript | React | Redux | Next.js | Node.js | Express.js
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Visual Studio code | Git | Linux | NPM
-- 💭 &nbsp; AWS | GitHub Pages | Heroku
+- 💭 &nbsp; AWS | GitHub Pages |
 
 <br>
 
