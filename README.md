@@ -3,7 +3,8 @@
 
 **Jrod-DEV/Jrod-DEV**
 
-- 🌱 &nbsp; I’m currently learning web development and programming skills.
+- 🌱 &nbsp; Passionate web developer, constantly learning and enhancing programming skills. Specialized in JavaScript, React, Next.js, Node, and Express, I'm committed to creating interactive and efficient
+     &nbsp; web experiences. Continuously exploring new technologies and trends to improve and expand my skill set in web development..
 - 💼 &nbsp; Full-Stack Web Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - ⚡ &nbsp;  Coffee, Lofi-HipHop and code. That´s all.
